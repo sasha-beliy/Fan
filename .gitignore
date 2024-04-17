@@ -1,0 +1,6 @@
+/DB_folder/
+/venv/
+/.env
+/__pycache__/
+/.idea/
+/celerybeat-schedule
